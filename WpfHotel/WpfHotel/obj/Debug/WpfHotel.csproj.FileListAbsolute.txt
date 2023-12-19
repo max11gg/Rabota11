@@ -1,0 +1,130 @@
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.AssemblyReference.cache
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Admin.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\MainWindow.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\App.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel_MarkupCompile.cache
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel_MarkupCompile.lref
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\WpfHotel.exe.config
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\WpfHotel.exe
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\WpfHotel.pdb
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ClosedXML.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\EPPlus.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\Irony.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ScottPlot.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ScottPlot.WPF.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Buffers.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.IO.Packaging.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Memory.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.ValueTuple.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\XLParser.dll
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ClosedXML.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\EPPlus.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\ScottPlot.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Buffers.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.IO.Packaging.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Memory.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\bin\Debug\System.ValueTuple.xml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Admin.baml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\MainWindow.baml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.g.resources
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.Properties.Resources.resources
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.GenerateResource.cache
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.CoreCompileInputs.cache
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.CopyComplete
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.exe
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\WpfHotel.pdb
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\AdminNeBD.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Client.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Manager.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\AdminNeBD.baml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Client.baml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Manager.baml
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Registration.g.cs
+C:\Users\Alexanders\source\repos\WpfHotel\WpfHotel\obj\Debug\Registration.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\WpfHotel.exe.config
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\WpfHotel.exe
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\WpfHotel.pdb
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ClosedXML.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\EPPlus.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\EPPlus.Interfaces.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\EPPlus.System.Drawing.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ExcelNumberFormat.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\FontAwesome.WPF.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\Irony.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\Newtonsoft.Json.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ScottPlot.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ScottPlot.WPF.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\SixLabors.Fonts.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\SixLabors.ImageSharp.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Buffers.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Drawing.Common.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.IO.Packaging.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Memory.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Numerics.Vectors.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.ValueTuple.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\XLParser.dll
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ClosedXML.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\EPPlus.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ExcelNumberFormat.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\FontAwesome.WPF.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\Newtonsoft.Json.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\ScottPlot.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\SixLabors.Fonts.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\SixLabors.ImageSharp.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Buffers.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.IO.Packaging.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Memory.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Numerics.Vectors.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\bin\Debug\System.ValueTuple.xml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.AssemblyReference.cache
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Admin.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\AdminNeBD.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Client.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\MainWindow.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Manager.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Registration.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\App.g.cs
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel_MarkupCompile.cache
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel_MarkupCompile.lref
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Admin.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\AdminNeBD.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Client.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\MainWindow.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Manager.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\Registration.baml
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.g.resources
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.Properties.Resources.resources
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.GenerateResource.cache
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.CoreCompileInputs.cache
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.csproj.CopyComplete
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.exe
+D:\Комп Максим Александровича\БД курсач (Шимбирев)\WpfHotel\WpfHotel\obj\Debug\WpfHotel.pdb
